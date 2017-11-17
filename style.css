@@ -87,6 +87,8 @@ div.questions p{
 div.questions  a.btn{
   border-radius: 5px;
   color:#FFF;
+  text-decoration: underline;
+  border-color:$007bff;
   background-color: #007bff;
   text-decoration: none;
   padding:18px;
